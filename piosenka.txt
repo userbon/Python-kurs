@@ -1,9 +1,9 @@
-refren1.txt
+refren.txt
 
 zwrotka1.txt
 
-refren2.txt
+refren.txt
 
 zwrotka2.txt
 
-refren3.txt
+refren.txt
