@@ -4,18 +4,7 @@ zwrotka1.txt
 
 refren2.txt
 
-J'habite w Warszawie gdzie każdy ma jakiś projekt
-Lecz żaden się nie skończy i żaden nie trafi w obieg
-Każdy tu chce być bardziej na offie niż Arczi Rojek
-A wszystko co robimy, robimy dla ładnych kobiet
-Ci chłopcy tu od lat se pielęgnowali fobie
-Bo wcześniej byli nudni i było to karygodne
-Już trwa tu licytacja kto gorszy ma jakiś problem
-Wygrywa ten kto przegrał, to przecież jest jakiś obłęd
-A ja sobie stoję no i słucham o czym mowa, bo ich kocham, bo to w sumie jak nie patrzeć moi ludzie
-Jeden tu kolega miał być chyba na odwyku, ale jakoś szybko skończył go, bo znowu łoi wódę
-Inny stoi z ładną koleżanką w jeszcze bardziej ładnych butach, za wysokich wprawdzie, niunia stoi z trudem
-A przecież mówiłem uważaj na szpilki
+zwrotka2.txt
 
 Znowu po tych klubach żonglerka jak Dele Alli
 Wjechałem jak Conrado, o kurwa, jesteście cali?
