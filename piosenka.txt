@@ -2,14 +2,7 @@ refren1.txt
 
 zwrotka1.txt
 
-Znowu po tych klubach żonglerka jak Dele Alli
-Wjechałem jak Conrado, o kurwa, jesteście cali?
-Słyszałem, że coś mruczysz, więc powiedz to reszcie sali
-Słyszałem, że coś mruczysz, więc powiedz to reszcie sali
-Znowu po tych klubach żonglerka jak Dele Alli
-Wjechałem jak Conrado, o kurwa, jesteście cali?
-Słyszałem, że coś mruczysz, więc powiedz to reszcie sali
-Słyszałem, że coś mruczysz, więc powiedz to reszcie sali
+refren2.txt
 
 J'habite w Warszawie gdzie każdy ma jakiś projekt
 Lecz żaden się nie skończy i żaden nie trafi w obieg
